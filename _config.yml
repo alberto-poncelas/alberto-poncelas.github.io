@@ -22,9 +22,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 
-gems:
-  - jekyll-feed
-  - jekyll-scholar
+gems: ['jekyll/scholar']
 
 
 # Markdown Processing
