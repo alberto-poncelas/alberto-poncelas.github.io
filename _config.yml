@@ -22,7 +22,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 
-gems: ['jekyll/scholar']
+
 
 
 # Markdown Processing
@@ -37,7 +37,7 @@ kramdown:
   enable_coderay: false
 
 
-
+plugins: ['jekyll/scholar']
 
 scholar:
   style: apa-no-doi-no-issue
