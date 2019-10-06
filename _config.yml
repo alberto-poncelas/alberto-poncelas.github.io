@@ -13,9 +13,6 @@ navigation:
 
 
 
-plugins:
-  - jekyll-feed
-  - jekyll-scholar
 
 # Conversion
 markdown: kramdown
@@ -23,6 +20,11 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+
+gems:
+  - jekyll-feed
+  - jekyll-scholar
 
 
 # Markdown Processing
