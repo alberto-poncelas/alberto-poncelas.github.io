@@ -3,7 +3,7 @@ title: Proyects
 layout: default
 ---
 
-# Proyects
+# Projects
 
 A list of some of the projects that I have worked on.
 
