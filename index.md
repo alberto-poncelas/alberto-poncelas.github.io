@@ -42,7 +42,10 @@ layout: default
 
 
 # About me
-I am currently a researcher at ADAPT Centre. As I am pasionate for languages, my research interests are in Machine Translation and NLP. I hold a PhD in Machine Translation at Dublin City University in Ireland and a M.Sc. in Machine Learning at the University of the Basque Country. Previously, I have also worked as a Software and Big Data Engineer.
+
+I am currently a researcher at ADAPT Centre. As I am passionate about languages, my research interests are Machine Translation and NLP. I hold a PhD in Machine Translation from Dublin City University in Ireland and a M.Sc. in Machine Learning from the University of the Basque Country. I have also worked as a Software and Big Data Engineer.
+
+
 
 You can find me in:
 

@@ -10,7 +10,8 @@ navigation:
       link: /cv.html
     - title: Publications
       link: /publications.html
-
+    - title: Projects
+      link: /projects.html
 
 
 # Conversion
