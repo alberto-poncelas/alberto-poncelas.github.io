@@ -10,6 +10,7 @@ A list of some of the projects that I have worked on.
 ### Data Science
 * [Feedback Classification](https://github.com/alberto-poncelas/feedback_classification): An LSTM classifier of customer feedback using keras. 
 * [FDA_align](https://github.com/alberto-poncelas/FDA_alignEntr): An extension of [Feature Decay Algorithms](https://github.com/bicici/FDA) used for data selection.
+* [ngramCertainty](https://github.com/alberto-poncelas/ngramCertainty): A tool for computing alignment entropy (made in Scala)
 * [Parallel Data Preprocess](https://github.com/alberto-poncelas/Parallel_Data_Preprocess): Scripts for preprocessing parallel data.
 * [bioc-alzheimer](https://github.com/alberto-poncelas/bioc-alzheimer): Preprocessing and data analysis of DNA microarrays using Bioconductor (R language). 
 
