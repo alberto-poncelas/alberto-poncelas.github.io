@@ -9,20 +9,26 @@ Here are the papers I have published. Check also [Google Scholar](https://schola
 
 
 
-
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js/src/bibtex_js.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
 
+<link href="http://fonts.googleapis.com/css?family=Noto Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+<link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+<link href="/assets/css/basestyle.css" rel="stylesheet">
+<link href="/assets/css/pygments.css" rel="stylesheet">
+
+
+
 <bibtex src="{{ site.baseurl }}/files/references.bib" ></bibtex>
 
 
-<div id="bibtex_display">
+<div id="bibtex_display" class="container">
   <div class="bibtex_template">
     <ul> <li>
-      <span class="if title"><span class="title" style='font-size: 12pt;'></span>,</span>
+      <b><span class="title" /> </b>
       <div class="if author"><span class="author"></span></div>
       <div>
         <span class="if journal"><em><span class="journal"></span></em></span>
@@ -31,12 +37,12 @@ Here are the papers I have published. Check also [Google Scholar](https://schola
         <span class="if pages">, pages <span class="pages">.</span>.</span>
         <span class="if address"><span class="address"></span></span>
         <a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY" bibtexjs-css-escape>
-		  [bib]
-		</a>
+      [bib]
+    </a>
       </div>
       <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
-		  <div><pre><span class="bibtexraw"></span></pre></div>
-	  </div>
+      <div><pre><span class="bibtexraw"></span></pre></div>
+    </div>
       
     </li></ul>
   </div>
