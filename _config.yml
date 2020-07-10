@@ -10,6 +10,8 @@ navigation:
       link: /cv.html
     - title: Publications
       link: /publications.html
+    - title: Presentations
+      link: /presentations.html
     - title: Projects
       link: /projects.html
 
