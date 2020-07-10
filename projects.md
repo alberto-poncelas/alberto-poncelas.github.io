@@ -40,6 +40,6 @@ A list of some of the projects that I have worked on.
 ### Online and Media
 
 * [Personal Webpage](https://alberto-poncelas.github.io/)
-* [Technical reports](https://github.com/alberto-poncelas/articles)
+* [Data Exploration Notebooks](https://github.com/alberto-poncelas/data_exploration_notebooks)
 * [MT Summit 2019 video](https://www.youtube.com/watch?v=1fOAHGbSPvg): Presentation of Machine Translation Summit 2019.
 * [NMT podcast](https://soundcloud.com/theadaptcentre/alberto-poncelas): Podcast about Machine Translation.
