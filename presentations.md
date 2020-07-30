@@ -46,7 +46,6 @@ layout: default
 
 ## Online and Media
 
-* [Personal Webpage](https://alberto-poncelas.github.io/)
 * [MT Summit 2019 video](https://www.youtube.com/watch?v=1fOAHGbSPvg): Presentation of Machine Translation Summit 2019.
 * [The Growing Field of Machine Translation](https://soundcloud.com/theadaptcentre/alberto-poncelas): Podcast about Machine Translation.
 
