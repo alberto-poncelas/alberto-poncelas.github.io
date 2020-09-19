@@ -40,6 +40,7 @@ A list of some of the projects that I have worked on.
 ### Technical Documents
 
 * [Machine Learning Guidebook](https://github.com/alberto-poncelas/ML_Guidebook)
+* [Data Science Tools Guides](https://github.com/alberto-poncelas/Datascience_Tools_guides)
 * [Data Exploration Notebooks](https://github.com/alberto-poncelas/data_exploration_notebooks)
 
 ### Others
