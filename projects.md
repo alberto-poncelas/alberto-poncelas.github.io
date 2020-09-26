@@ -10,15 +10,16 @@ A list of some of the projects that I have worked on.
 ### Data Science
 * [Feedback Classification](https://github.com/alberto-poncelas/feedback_classification): An LSTM classifier of customer feedback using keras. [Python,Keras]
 * [FDA_align](https://github.com/alberto-poncelas/FDA_alignEntr): An extension of [Feature Decay Algorithms](https://github.com/bicici/FDA) used for data selection.[C language]
-* [ngramCertainty](https://github.com/alberto-poncelas/ngramCertainty): A tool for computing alignment entropy [Scala]
-* [Parallel Data Preprocess](https://github.com/alberto-poncelas/Parallel_Data_Preprocess): Scripts for preprocessing parallel data [Shell script].
+* [MRFDA](https://github.com/alberto-poncelas/MRFDA): A Map-reduce approach of FDA. [Scala]
+* [ngramCertainty](https://github.com/alberto-poncelas/ngramCertainty): A tool for computing alignment entropy. [Scala]
+* [Parallel Data Preprocess](https://github.com/alberto-poncelas/Parallel_Data_Preprocess): Scripts for preprocessing parallel data. [Shell script]
 * [CHRF Statistical Significance](https://github.com/alberto-poncelas/CHRF_stat_signif): Tool for computing the statistical significance improvements of a translation according to CHRF evaluation metric [Python].
 * [bioc-alzheimer](https://github.com/alberto-poncelas/bioc-alzheimer): Preprocessing and data analysis of DNA microarrays using Bioconductor [R language]. 
 
 ### Tools
 
 ##### Language Tools
-* [Tesseract Postprocess](https://github.com/alberto-poncelas/tesseract_postprocess): A tool for postprocessing the output of Tesseract [Python,Bash]
+* [Tesseract Postprocess](https://github.com/alberto-poncelas/tesseract_postprocess): A tool for postprocessing the output of Tesseract. [Python,Bash]
 * [Thai Writer](https://github.com/alberto-poncelas/thai_writer): Tool for helping to write Thai words. [Flask, AJAX, Python]
 * [generate_anki](https://github.com/alberto-poncelas/generate_anki): Tool for building Anki decks from a file. [Python]
 * [Language Helper Tool](https://github.com/alberto-poncelas/language_helper_tool): A tool for language learning. [Python, Flask, JQuery, AJAX, SQlite]
