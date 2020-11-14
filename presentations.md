@@ -9,7 +9,7 @@ layout: default
 ## Conference Talks 
 
 * **The Impact of Indirect Machine Translation on Sentiment Classification** <br/>
-*Association for Machine Translation in the Americas. (AMTA 2020)*. Online [[web]](https://amtaweb.org/)
+*Association for Machine Translation in the Americas. (AMTA 2020)*. [[Online]](https://www.youtube.com/watch?v=uzzG63b8Lkw) [[web]](https://amtaweb.org/)
 
 * **Transductive Data-Selection Algorithms for Fine-Tuning Neural Machine Translation** <br/>
 *Patent and Scientific Literature Translation (PSLT 2019)*. Dublin, Ireland [[web]](http://aamtjapio.com/pslt2019/)
