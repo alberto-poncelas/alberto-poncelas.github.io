@@ -8,6 +8,9 @@ layout: default
 
 ## Conference Talks 
 
+* **Using Multiple Subwords to Improve English-Esperanto Automated Literary Translation Quality** <br/>
+*Workshop on Technologies for MT of Low Resource Languages (LoresMT 2020)*. [[Online]](https://www.youtube.com/watch?v=QzIGJ08pTiI) [[web]](https://sites.google.com/view/loresmt/)
+
 * **The Impact of Indirect Machine Translation on Sentiment Classification** <br/>
 *Association for Machine Translation in the Americas. (AMTA 2020)*. [[Online]](https://www.youtube.com/watch?v=uzzG63b8Lkw) [[web]](https://amtaweb.org/)
 
