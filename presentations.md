@@ -40,6 +40,12 @@ layout: default
 ## Other Presentations
 
 
+
+* **Rapid Development of Competitive Translation Engines for Access to Multilingual COVID-19 Information**<br/>
+*Crisis Response–Language tools to the rescue (2020)*. Online <br/>
+[[web]](https://joinup.ec.europa.eu/collection/innovative-public-services/event/crisis-response-language-tools-rescue)
+
+
 * **The sentiment classification on indirect translation** (in French)<br/>
 *Mots/Machines \#2 Traduction et sentiment: quel(s) sens pour la machine? (2020)*. Brest, France <br/>
 [[web]](https://www.univ-brest.fr/digitalAssets/86/86390_Programme-A5.pdf)
