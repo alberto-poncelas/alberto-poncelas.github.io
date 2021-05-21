@@ -46,5 +46,5 @@ A list of some of the projects that I have worked on.
 
 ### Others
 
-* [Personal Webpage](https://alberto-poncelas.github.io/)
+* [Personal Webpage](https://github.com/alberto-poncelas/alberto-poncelas.github.io)
 
