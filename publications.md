@@ -25,28 +25,26 @@ Here are the papers I have published. Check also [Google Scholar](https://schola
 <bibtex src="{{ site.baseurl }}/files/references.bib" ></bibtex>
 
 
-<div id="bibtex_display" class="container">
-  <div class="bibtex_template">
-    <ul> <li>
-      <b><span class="title" /> </b>
-      <div class="if author"><span class="author"></span></div>
-      <div>
-        <span class="if journal"><em><span class="journal"></span></em></span>
-        <span class="if booktitle"><em><span class="booktitle"></span></em></span>
-        <span class="if year"><span class="year"></span></span>
-        <span class="if pages">, pages <span class="pages">.</span>.</span>
-        <span class="if address"><span class="address"></span></span>
-        <a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY" bibtexjs-css-escape>
-      [bib]
-    </a>
+<ol> 
+  <div id="bibtex_display" class="container">
+      <div class="bibtex_template">
+        <li>
+          <b><span class="title" /> </b>
+          <div class="if author"><span class="author"></span></div>
+          <div>
+            <span class="if journal"><em><span class="journal"></span></em></span>
+            <span class="if booktitle"><em><span class="booktitle"></span></em></span>
+            <span class="if year"><span class="year"></span></span>
+            <span class="if pages">, pages <span class="pages">.</span>.</span>
+            <span class="if address"><span class="address"></span></span>
+            <a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY" bibtexjs-css-escape>[bib] </a>
+          </div>
+          <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+            <div><pre><span class="bibtexraw"></span></pre></div>
+          </div>
+        </li>
       </div>
-      <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
-      <div><pre><span class="bibtexraw"></span></pre></div>
-    </div>
-      
-    </li></ul>
   </div>
-
-</div>
+</ol>
 
 
