@@ -9,7 +9,13 @@ layout: default
 ## Conference Talks 
 
 * **Using Multiple Subwords to Improve English-Esperanto Automated Literary Translation Quality** <br/>
-*Workshop on Technologies for MT of Low Resource Languages (LoresMT 2020)*. [[Online]](https://www.youtube.com/watch?v=QzIGJ08pTiI) [[web]](https://sites.google.com/view/loresmt/)
+*Workshop on Technologies for MT of Low Resource Languages (LoresMT 2022)*. Gyeongju, South Korea [[web]](https://sites.google.com/view/loresmt/)
+
+* **Rakuten's Participation in WAT 2022:  Parallel Dataset Filtering by Leveraging Vocabulary Heterogeneity** <br/>
+*Workshop on Asian Translation (WAT 2022)*. Gyeongju, South Korea [[web]](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2022/index.html)
+
+* **Using Multiple Subwords to Improve English-Esperanto Automated Literary Translation Quality** <br/>
+*Workshop on Technologies for MT of Low Resource Languages (LoresMT 2020)*. [[Online]](https://www.youtube.com/watch?v=QzIGJ08pTiI) [[web]](https://sites.google.com/view/loresmt/previous-workshops/loresmt-2020)
 
 * **The Impact of Indirect Machine Translation on Sentiment Classification** <br/>
 *Association for Machine Translation in the Americas. (AMTA 2020)*. [[Online]](https://www.youtube.com/watch?v=uzzG63b8Lkw) [[web]](https://amtaweb.org/)
